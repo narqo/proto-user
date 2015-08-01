@@ -1,0 +1,15 @@
+{
+  "name": "proto-user",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "dependencies": {
+    "terror": "^1.3.0",
+    "vow": "^0.4.10"
+  }
+}
